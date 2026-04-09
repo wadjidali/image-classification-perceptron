@@ -1,32 +1,24 @@
-# Image Classification with Perceptron
-Image preprocessing and classification using a Perceptron model in Python
+# 🧠 Perceptron Image Classification
 
-## Description
-Ce projet implémente un modèle simple de classification d'images
-à l'aide d'un perceptron.
+## 🎯 Objectif
+Implémenter un modèle de classification basé sur un perceptron et visualiser ses performances.
 
-Les images sont :
+## 📊 Données
+Dataset généré artificiellement pour simuler un problème de classification binaire.
 
-- converties en niveaux de gris
-- redimensionnées (64x64)
-- transformées en vecteurs
-- utilisées pour entraîner un modèle de classification.
+## ⚙️ Méthodologie
+- Génération des données
+- Visualisation des classes
+- Entraînement du perceptron
+- Analyse de la frontière de décision
 
-## Technologies
-- Python
-- NumPy
-- PIL
-- Scikit-learn
-- Matplotlib
+## 📈 Résultats
 
-## Pipeline
+### Dataset
+![Dataset](images/dataset.png)
 
-1. Chargement des images
-2. Transformation en matrice
-3. Normalisation
-4. Flatten des images
-5. Entraînement du modèle
+### Frontière de décision
+![Decision](images/decision_boundary.png)
 
-## Résultat
-
-Le modèle est capable de classer les images selon leur catégorie. De sorte à gérer une reconnaissance faciale !
+## 🛠️ Technologies
+Python, NumPy, Scikit-learn, Matplotlib
