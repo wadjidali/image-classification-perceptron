@@ -15,10 +15,12 @@ Dataset généré artificiellement pour simuler un problème de classification b
 ## 📈 Résultats
 
 ### Dataset
-![Dataset](images/dataset.png)
+![Dataset](![classification](https://github.com/user-attachments/assets/88d7c197-7e1c-4498-ba07-f7a78d40b7da)
+
 
 ### Frontière de décision
-![Decision](images/decision_boundary.png)
+![Decision](![perceptron](https://github.com/user-attachments/assets/888f11c4-7217-4543-acf5-10a73e0e97b7)
+
 
 ## 🛠️ Technologies
 Python, NumPy, Scikit-learn, Matplotlib
